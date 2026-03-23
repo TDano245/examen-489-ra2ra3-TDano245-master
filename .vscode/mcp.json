@@ -1,0 +1,11 @@
+{
+    "servers": {
+        "google-drive": {
+            "type": "stdio",
+            "command": "node",
+            "args": [
+                "/usr/local/lib/node_modules/@modelcontextprotocol/server-gdrive/dist/index.js"
+            ]
+        }
+    }
+}
